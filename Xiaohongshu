@@ -1,0 +1,13 @@
+技术栈汇总：
+1.Restful 基本准则：https://www.ibm.com/developerworks/library/ws-restful/index.html
+2.消息队列 RabbitMQ：https://www.rabbitmq.com/
+3.任务队列 Celery
+4.共享内存 Redis
+5.定时任务 Crontab
+6.数据库 Mongo
+7.Python 相关：
+	1. 各大模块
+	2. Flask框架
+	3. Django框架
+	4. Mongoengine（ORM）
+
