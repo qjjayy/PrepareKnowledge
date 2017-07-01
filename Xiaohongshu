@@ -5,12 +5,14 @@
 4.共享内存 Redis
 5.定时任务 Crontab
 6.数据库 Mongo
-7.RPC接口Thrift：
+7.uwsgi 
+8.nginx
+9.RPC接口Thrift：
 	Java版：https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/
 	Java代码全版： http://www.micmiu.com/soa/rpc/thrift-sample/
 	通用版： http://jnb.ociweb.com/jnb/jnbJun2009.html
 	项目源代码： https://github.com/apache/thrift
-8.Python 相关：
+10.Python 相关：
 	1. 各大模块：
 		webargs(marshmallow)：https://webargs.readthedocs.io/en/latest/advanced.html#schema-factories
 		transitios：https://github.com/tyarkoni/transitions   （看到Conditional transitions）
