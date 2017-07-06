@@ -1,0 +1,6 @@
+Office 或者 WPS 出现崩溃时的处理方法：
+1.     关闭迅雷，因为迅雷会监测复制功能（也可关闭其监测功能），如果复制内容较多，会导致内存吃紧
+2.     关闭翻译软件的划词翻译功能
+3.     Office 或者 WPS 删除模版文件：Normal.dot，重新开启Office或者 WPS 会自动重新生成该模版文件，
+                该文件路径：C:\Documents and Settings\用户名\Application Data\Microsoft\Templates  （WPS可以，打开WPS，上面一栏中找到加载项，里面有模版文件）
+4.     实在不行：查找Microsoft官方帮助文档，路径https://support.microsoft.com/zh-cn/search?query=word%20复制时崩溃     
