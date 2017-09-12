@@ -1,11 +1,16 @@
 JAVASE 方面，重点关注
+语言基础 书籍《Java编程思想》
 设计模式 博客地址：http://blog.csdn.net/taozi8023/article/details/51452987
-并发编程 博客地址：http://ifeve.com/   （尤其方腾飞这个人很厉害）
-JVM 博客地址：http://www.ityouknow.com/blog
+并发编程 书籍 《Java并发编程的艺术》方腾飞
+网络编程 书籍 《Java网络编程》
+JVM 书籍 《深入理解 Java 虚拟机-Jvm 高级特性与最佳实践》
+
 还有就是刷算法题LeetCode、LintCode、剑指offer
 
 JAVAEE 方面，推荐北京动力节点的课程（下面的链接也是动力节点的，我汇总了一下）
-看SSM框架之前，把 Servlet 看一下（去动力节点上去找，网盘里没有）
-再把 JDBC 看一下  百度网盘 http://pan.baidu.com/s/1mhXS26W  密码：zt7i
+看SSM框架之前：把 Servlet 看一下（去动力节点上去找，我网盘里没有）
+             MySQL 基础知识 百度网盘  http://pan.baidu.com/s/1kUS4SU7  密码：6n2e
+             再把 JDBC 看一下  百度网盘 http://pan.baidu.com/s/1mhXS26W  密码：zt7i
 SSM框架 百度网盘 http://pan.baidu.com/s/1dE7cwYP  密码：4v86
-MySQL 基础知识 百度网盘  http://pan.baidu.com/s/1kUS4SU7  密码：6n2e
+
+关于框架，补充一下，跟着视频学一遍之后，重点看Spring，可以看英文手册、研究一下它的源码。
