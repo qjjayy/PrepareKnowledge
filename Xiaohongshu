@@ -7,22 +7,22 @@
 6.数据库 Mongo 
 7.uwsgi 
 8.Nginx
-9.RPC接口Thrift：
+9.RPC接口Thrift：(Done)
 	Java版：https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/
 	Java代码全版： http://www.micmiu.com/soa/rpc/thrift-sample/
 	通用版： http://jnb.ociweb.com/jnb/jnbJun2009.html
 	项目源代码： https://github.com/apache/thrift
-10 ElasticSearch: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-rescore.html
+10 ElasticSearch: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-rescore.html (Doing)
 11 Logstash
 12 Kibana
 13 Doker K8S
 
 Python 相关：
 	1. 各大模块：
-		webargs：https://webargs.readthedocs.io/en/latest/advanced.html#schema-factories
-		transitions：https://github.com/tyarkoni/transitions
-		datetime: 
-	2. Flask框架：http://docs.jinkan.org/docs/flask/
+		webargs：https://webargs.readthedocs.io/en/latest/advanced.html#schema-factories (Done)
+		transitions：https://github.com/tyarkoni/transitions (Done)
+		sqlalchemy (Done)
+	2. Flask框架：http://docs.jinkan.org/docs/flask/  (Doing)
 	3. Django框架
 	4. Mongoengine（ORM）
-	5. Marshmallow: (de)serialization  http://marshmallow.readthedocs.io/en/latest/
+	5. Marshmallow: (de)serialization  http://marshmallow.readthedocs.io/en/latest/  (Done)
