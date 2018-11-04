@@ -1,10 +1,10 @@
 技术栈汇总：
-1.Restful 基本准则：https://www.ibm.com/developerworks/library/ws-restful/index.html
-2.消息队列 RabbitMQ（AMPQ协议、Kombu）：https://www.rabbitmq.com/
-3.任务队列 Celery：http://docs.celeryproject.org/en/latest/userguide/index.html#guide
-4.共享内存 Redis
+1.Restful 基本准则：https://www.ibm.com/developerworks/library/ws-restful/index.html  (Done)
+2.消息队列 RabbitMQ（AMPQ协议、Kombu）：https://www.rabbitmq.com/  (Doing)
+3.任务队列 Celery：http://docs.celeryproject.org/en/latest/userguide/index.html#guide  (Done)
+4.共享内存 Redis (Doing)
 5.定时任务 Crontab
-6.数据库 Mongo
+6.数据库 Mongo 
 7.uwsgi 
 8.Nginx
 9.RPC接口Thrift：
@@ -15,6 +15,7 @@
 10 ElasticSearch: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-rescore.html
 11 Logstash
 12 Kibana
+13 Doker K8S
 
 Python 相关：
 	1. 各大模块：
