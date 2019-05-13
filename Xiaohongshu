@@ -3,27 +3,27 @@
 2.消息队列 RabbitMQ（AMPQ协议、Kombu）：https://www.rabbitmq.com/  (Doing)
 3.任务队列 Celery：http://docs.celeryproject.org/en/latest/userguide/index.html#guide  (Done)
 4.共享内存 Redis (Doing)
-5.分布式缓存 Memcached (Done)
-5.定时任务 Crontab
-6.数据库 Mongo 
-7.uwsgi 
-8.Nginx
-9.RPC接口Thrift：(Done)
+5.分布式缓存 Memcached https://github.com/memcached/memcached/wiki (Done)
+6.定时任务 Crontab
+7.数据库 Mongo 
+8.uwsgi 
+9.Nginx (Doing)
+10.RPC接口Thrift：(Done)
 	Java版：https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/
 	Java代码全版： http://www.micmiu.com/soa/rpc/thrift-sample/
 	通用版： http://jnb.ociweb.com/jnb/jnbJun2009.html
 	项目源代码： https://github.com/apache/thrift
-10 ElasticSearch: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-rescore.html (Doing)
-11 Logstash
-12 Kibana
-13 Doker K8S
+11 ElasticSearch: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-rescore.html (Doing)
+12 Logstash
+13 Kibana
+14 Doker K8S
 
 Python 相关：
 	1. 各大模块：
 		webargs：https://webargs.readthedocs.io/en/latest/advanced.html#schema-factories (Done)
 		transitions：https://github.com/tyarkoni/transitions (Done)
 		sqlalchemy (Done)
-	2. Flask框架：http://docs.jinkan.org/docs/flask/  (Doing)
+	2. Flask框架：http://docs.jinkan.org/docs/flask/  (Done)
 	3. Django框架
 	4. Mongoengine（ORM）
 	5. Marshmallow: (de)serialization  http://marshmallow.readthedocs.io/en/latest/  (Done)
